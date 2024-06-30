@@ -4,7 +4,7 @@ import type { FormViewerWrapperComponentProps } from '@react-form-builder/core';
 import { JSX as JSX_2 } from '@emotion/react/jsx-runtime';
 import { Model } from '@react-form-builder/core';
 import type { OverlayTriggerType } from 'rsuite/esm/internals/Overlay/OverlayTrigger';
-import type { TypeAttributes } from 'rsuite/esm/@types/common';
+import type { TypeAttributes } from 'rsuite/esm/internals/types';
 import { View } from '@react-form-builder/core';
 import { WrapperProps } from '@react-form-builder/core';
 
